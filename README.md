@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## A digital achaeology portfolio
 
-You can use the [editor on GitHub](https://github.com/daniellachristina/Welcome/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello and Welcome to my blog. As technology advances, so to do the methodolgies archaeologists use to share their data. This is a place to showcase my newly developed skills in digital archaeology, I hope you enjoy looking through my projects. Follow me on twitter http://twitter.com/digiarch2017 :sparkles:
 
 ### Markdown
 
