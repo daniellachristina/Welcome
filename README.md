@@ -5,6 +5,7 @@ Hello and Welcome to my blog. As technology advances, so to do the methodolgies 
 A little something
 
 ![dog bones! from the University of Alberta Archives](https://i.cbc.ca/1.3479702.1457380931!/fileImage/httpImage/image.JPG_gen/derivatives/original_620/dog-bones.JPG)
+
 Dog bones! from the University of Alberta Archives
 
 ## Portfolio project II
