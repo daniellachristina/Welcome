@@ -1,6 +1,6 @@
 ## A digital achaeology portfolio
 
-Hello and Welcome to my blog. As technology advances, so to do the methodolgies archaeologists use to share their data. This is a place to showcase my newly developed skills in digital archaeology, I hope you enjoy looking through my projects. Follow me on twitter http://twitter.com/digiarch2017 :sparkles:
+Hello and Welcome to my blog. As technology advances, so do the methodolgies archaeologists use to share their data. This is a place to showcase my newly developed skills in digital archaeology, I hope you enjoy looking through my projects. Follow me on twitter http://twitter.com/digiarch2017 :sparkles:
 
 A little something
 
