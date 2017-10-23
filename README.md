@@ -2,34 +2,10 @@
 
 Hello and Welcome to my blog. As technology advances, so to do the methodolgies archaeologists use to share their data. This is a place to showcase my newly developed skills in digital archaeology, I hope you enjoy looking through my projects. Follow me on twitter http://twitter.com/digiarch2017 :sparkles:
 
-### Markdown
+# a little something
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![dog bones! from the University of Alberta Archives](https://i.cbc.ca/1.3479702.1457380931!/fileImage/httpImage/image.JPG_gen/derivatives/original_620/dog-bones.JPG)
 
-```markdown
-Syntax highlighted code block
+## Portfolio project II
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/daniellachristina/Welcome/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Following the theme "the bones of our past" from the heritage jam contest, I have decided to focus on the topic of domestication for my second portfolio project. I will be analysing archaeological findings surrounding the domestication of dogs, pigs, and cows. I will also be creating maps pinpointing important findings and early domestication locations. 
