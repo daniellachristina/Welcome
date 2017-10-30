@@ -19,6 +19,16 @@ Following the theme "the bones of our past" from the heritage jam contest, I hav
 <a>
 <iframe style='width: 100%; height: 800px' src='//voyant-tools.org/?visible=155&view=Cirrus&corpus=25756ab45df5c8620fd00c67e152f831'></iframe></a>
 
+<!DOCTYPE html>
+<html>
+<body>
+
+<iframe style=img src="//voyant-tools.org/?visible=155&view=Cirrus&corpus=25756ab45df5c8620fd00c67e152f831"></iframe>
+
+</body>
+</html>
+
+
 **Visualisation description**
 
 Using an article initially published in Archaeology Magazine [Link to Archaeology Archive!] (https://archive.archaeology.org/1009/dogs/) on the archeology of dog domestication, this visual represents the instances of the words we associate with dog domestication, such as the obviuos 'dogs' and 'wolves', but is also enriched by the inclusion of 'agriculture', 'companions', 'humans', and 'cultures.'
