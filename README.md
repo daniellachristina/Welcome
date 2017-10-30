@@ -20,7 +20,7 @@ http and https sites, but if you're embedding this into a local web page (file p
 you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
 it depends on this server.
 Feel free to change the height and width values or other styling below: -->
-<iframe style='width: 100%; height: 800px' src='//voyant-tools.org/?view=Cirrus&corpus=25756ab45df5c8620fd00c67e152f831'></iframe>
+<iframe style='width: 100%; height: 800px' <a href="voyant.htm"><img src="//voyant-tools.org/?view=Cirrus&corpus=25756ab45df5c8620fd00c67e152f831"></iframe>
 
 ### Visualisation description
 
