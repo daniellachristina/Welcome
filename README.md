@@ -16,16 +16,18 @@ Following the theme "the bones of our past" from the heritage jam contest, I hav
 
 ## Voyant 
 
+<img src="voyant-tools.org/?view=TermsBerry&corpus=25756ab45df00c67e152f831""
+     alt="Voyant"
+     width="100%"
+     height="800px"
+     title="Berry&corpus">
+
 <!--	Exported from Voyant Tools (voyant-tools.org).
 The iframe src attribute below uses a relative protocol to better function with both
 http and https sites, but if you're embedding this into a local web page (file protocol)
 you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
 it depends on this server.
 Feel free to change the height and width values or other styling below: -->
-
-<img src="http://voyant-tools.org/?view=TermsBerry&corpus=25756ab45df5c8620fd00c67e152f831"
-  style='width: 400%; height: 400px'></iframe></img>
-
-**Visualisation description**
+<iframe style='width: 100%; height: 800px' src='//voyant-tools.org/?view=TermsBerry&corpus=25756ab45df5c8620fd00c67e152f831'></iframe>
 
 Using an article initially published in Archaeology Magazine [Link to Archaeology Archive!] (https://archive.archaeology.org/1009/dogs/) on the archeology of dog domestication, this visual represents the instances of the words we associate with dog domestication, such as the obviuos 'dogs' and 'wolves', but is also enriched by the inclusion of 'agriculture', 'companions', 'humans', and 'cultures.'
