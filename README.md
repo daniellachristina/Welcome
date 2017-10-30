@@ -16,14 +16,8 @@ Following the theme "the bones of our past" from the heritage jam contest, I hav
 
 ## Voyant 
 
-<!--	Exported from Voyant Tools (voyant-tools.org).
-The iframe src attribute below uses a relative protocol to better function with both
-http and https sites, but if you're embedding this into a local web page (file protocol)
-you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
-it depends on this server.
-Feel free to change the height and width values or other styling below: -->
-'''HTML
-<iframe style='width: 100%; height: 800px' src='//voyant-tools.org/?visible=155&view=Cirrus&corpus=25756ab45df5c8620fd00c67e152f831'></iframe>
+<a>
+<iframe style='width: 100%; height: 800px' src='//voyant-tools.org/?visible=155&view=Cirrus&corpus=25756ab45df5c8620fd00c67e152f831'></iframe></a>
 
 **Visualisation description**
 
