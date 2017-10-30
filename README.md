@@ -26,5 +26,4 @@ Feel free to change the height and width values or other styling below: -->
 
 **Visualisation description**
 
-Using an article initially published in Archaeology Archive 
-[Link to Archaeology Archive!] (https://archive.archaeology.org/1009/dogs/) on the archeology of dog domestication, this visual represents the instances of the words we associate with dog domestication, such as the obviuos 'dogs' and 'wolves', but is also enriched by the inclusion of 'agriculture', 'companions', 'humans', and 'cultures.'
+Using an article initially published in [Archaeology Archive!] (https://archive.archaeology.org/1009/dogs/) on the archeology of dog domestication, this visual represents the instances of the words we associate with dog domestication, such as the obviuos 'dogs' and 'wolves', but is also enriched by the inclusion of 'agriculture', 'companions', 'humans', and 'cultures.'
