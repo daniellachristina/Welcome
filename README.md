@@ -2,7 +2,7 @@
 
 Hello and Welcome to my blog. As technology advances, the methodolgies archaeologists use to share their data does as well. This is a place to showcase my newly developed skills in digital archaeology, I hope you enjoy looking through my projects. 
 
-Follow me on twitter <a href="http://twitter.com/digiarch2017">here</a> 
+Follow me on twitter ![Twitter! link] (http://twitter.com/digiarch2017)
 
 A little something
 
