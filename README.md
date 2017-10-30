@@ -22,8 +22,9 @@ http and https sites, but if you're embedding this into a local web page (file p
 you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
 it depends on this server.
 Feel free to change the height and width values or other styling below: -->
-<iframe src="http://voyant-tools.org/?view=TermsBerry&corpus=25756ab45df5c8620fd00c67e152f831"
-  style='width: 400%; height: 400px'></iframe>
+
+<img src="http://voyant-tools.org/?view=TermsBerry&corpus=25756ab45df5c8620fd00c67e152f831"
+  style='width: 400%; height: 400px'></iframe></img>
 
 **Visualisation description**
 
