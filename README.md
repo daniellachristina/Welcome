@@ -14,8 +14,14 @@ Following the theme "the bones of our past" from the heritage jam contest, I hav
 
 ## Voyant 
 
-http://voyant-tools.org/?corpus=25756ab45df5c8620fd00c67e152f831&view=Cirrus
+<!--	Exported from Voyant Tools (voyant-tools.org).
+The iframe src attribute below uses a relative protocol to better function with both
+http and https sites, but if you're embedding this into a local web page (file protocol)
+you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
+it depends on this server.
+Feel free to change the height and width values or other styling below: -->
+<iframe style='width: 100%; height: 800px' src='//voyant-tools.org/?view=Cirrus&corpus=25756ab45df5c8620fd00c67e152f831'></iframe>
 
 ### Visualisation description
 
-Using an article initially published in Archaeology Archive (https://archive.archaeology.org/1009/dogs/) on the archeology of dog domestication, this visual represents the instances of the words we associate with dog domestication, such as the obviuos 'dogs' and 'wolves', but is also enriched by the inclusion of 'agriculture', 'companions', 'humans', and 'cultures.'
+Using an article initially published in Archaeology Archive https://archive.archaeology.org/1009/dogs/ on the archeology of dog domestication, this visual represents the instances of the words we associate with dog domestication, such as the obviuos 'dogs' and 'wolves', but is also enriched by the inclusion of 'agriculture', 'companions', 'humans', and 'cultures.'
