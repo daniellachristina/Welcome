@@ -1,6 +1,6 @@
 ## A digital achaeology portfolio
 
-Hello and Welcome to my blog. As technology advances, the methodolgies archaeologists use to share their data does as well. This is a place to showcase my newly developed skills in digital archaeology, I hope you enjoy looking through my projects. Follow me on twitter <a href=http://twitter.com/digiarch2017>here</a>
+Hello and Welcome to my blog. As technology advances, the methodolgies archaeologists use to share their data does as well. This is a place to showcase my newly developed skills in digital archaeology, I hope you enjoy looking through my projects. Follow me on twitter <a href="http://twitter.com/digiarch2017">here</a> 
 
 A little something
 
@@ -24,4 +24,4 @@ Feel free to change the height and width values or other styling below: -->
 
 ### Visualisation description
 
-Using an article initially published in Archaeology Archive <a href=https://archive.archaeology.org/1009/dogs/>link</a> on the archeology of dog domestication, this visual represents the instances of the words we associate with dog domestication, such as the obviuos 'dogs' and 'wolves', but is also enriched by the inclusion of 'agriculture', 'companions', 'humans', and 'cultures.'
+Using an article initially published in Archaeology Archive <a href="https://archive.archaeology.org/1009/dogs/">link</a> on the archeology of dog domestication, this visual represents the instances of the words we associate with dog domestication, such as the obviuos 'dogs' and 'wolves', but is also enriched by the inclusion of 'agriculture', 'companions', 'humans', and 'cultures.'
