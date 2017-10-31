@@ -24,17 +24,6 @@ Following the theme "the bones of our past" from the heritage jam contest, I hav
 
 I've used Voyant to analyze the text of two archaeological articles concerning the lives of people in the Neolithic Turkish city of Catalhoyuk. Located in the fertile cresent, Catalhoyuk is considered one of the most important locations in regard to domestication. Voyant allows us to view the frequency of words in uploaded texts, and in the case of the Catalhoyuk articles, we can observe that 'animals' and 'domestication' are amongst the most frequent. 
 
-## Zing Chart
+## Story Map JS
 
-<!DOCTYPE html>
-<html>
-	<head>
-		<script src= "https://cdn.zingchart.com/zingchart.min.js"></script>
-		<script> zingchart.MODULESDIR = "https://cdn.zingchart.com/modules/";
-		ZC.LICENSE = ["569d52cefae586f634c54f86dc99e6a9","ee6b7db5b51705a13dc2339db3edaf6d"];</script></head>
-	<body>
-		<div id="myChart"><a class="zc-ref" href="https://www.zingchart.com">Powered by ZingChart</a></div>
-	</body>
-</html>
-
-
+<iframe src="https://uploads.knightlab.com/storymapjs/8923cb033c46e12eeeadad211239b343/visualizing-archaeology-archaeology-of-domestication/index.html" frameborder="0" width="100%" height="800"></iframe>
