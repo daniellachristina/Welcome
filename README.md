@@ -27,3 +27,5 @@ I've used Voyant to analyze the text of two archaeological articles concerning t
 ## Story Map JS
 
 <iframe src="https://uploads.knightlab.com/storymapjs/8923cb033c46e12eeeadad211239b343/visualizing-archaeology-archaeology-of-domestication/index.html" frameborder="0" width="100%" height="800"></iframe>
+
+I've utlized Story Map JS to locate sites of animal domestication around the world. Included are the sites of dog, cattle, pig, guinea pig, and chicken domestication. I think this my favourite visualization tool, as it allows for easy editing, custom photo uploads, and most importantly, allows for the added description of the points located on the map. I'm very pleased with how this turned out! 
