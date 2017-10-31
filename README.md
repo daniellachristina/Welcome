@@ -12,7 +12,7 @@ Dog bones! from the University of Alberta Archives
 
 ## Portfolio project II
 
-Following the theme "the bones of our past" from the heritage jam contest, I have decided to focus on the topic of domestication for my second portfolio project. I will be analysing archaeological findings surrounding the domestication of dogs, pigs, and cows. I will also be creating maps pinpointing important findings and early domestication locations. 
+Following the theme "the bones of our past" from the heritage jam contest, I have decided to focus on the topic of domestication for my second portfolio project. I will be analysing archaeological findings surrounding the domestication of animals and the places they emerged from.  
 
 ## Voyant 
 
@@ -23,3 +23,18 @@ Following the theme "the bones of our past" from the heritage jam contest, I hav
      title="Cirrus">
 
 I've used Voyant to analyze the text of two archaeological articles concerning the lives of people in the Neolithic Turkish city of Catalhoyuk. Located in the fertile cresent, Catalhoyuk is considered one of the most important locations in regard to domestication. Voyant allows us to view the frequency of words in uploaded texts, and in the case of the Catalhoyuk articles, we can observe that 'animals' and 'domestication' are amongst the most frequent. 
+
+## Zing Chart
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<script src= "https://cdn.zingchart.com/zingchart.min.js"></script>
+		<script> zingchart.MODULESDIR = "https://cdn.zingchart.com/modules/";
+		ZC.LICENSE = ["569d52cefae586f634c54f86dc99e6a9","ee6b7db5b51705a13dc2339db3edaf6d"];</script></head>
+	<body>
+		<div id="myChart"><a class="zc-ref" href="https://www.zingchart.com">Powered by ZingChart</a></div>
+	</body>
+</html>
+
+
