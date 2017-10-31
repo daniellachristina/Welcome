@@ -12,7 +12,7 @@ Dog bones! from the University of Alberta Archives
 
 ## Portfolio project II
 
-Following the theme "the bones of our past" from the heritage jam contest, I have decided to focus on the topic of domestication for my second portfolio project. I will be analysing archaeological findings surrounding the domestication of dogs, pigs, and cows. I will also be creating maps pinpointing important findings and early domestication locations. 
+Following the theme "the bones of our past" from the heritage jam contest, I have decided to focus on the topic of domestication for my second portfolio project. I will be analysing archaeological findings surrounding the domestication of animals and the places they emerged from.  
 
 ## Voyant 
 
