@@ -27,7 +27,20 @@ I've utlized Story Map JS to locate sites of animal domestication around the wor
 
 Starting at the first known instance of a morphologically different wolf like animal in the pleistocene and ending with the discovery of a fully domesticated dog skeleton being unearthed in a grave with a human, this timeline represents the important dates indicated by archaeologists for dog domestication. I think the timeline js works really well with my project, as it allows for the visualization of qualitative data quite well. 
 
+## Voyant
+
+### Cirrus Word Bubble
+
 <iframe style='width: 100%; height: 800px' src='//voyant-tools.org/?view=Cirrus&corpus=3bad1ab6af4e716bf987be49d2e41078'></iframe>
 
-I've used voyant to analyze the texts of two archeological articles analysing data concerning the domestication of dogs. The cirrus word bubble allows for us to look at how certain subjects are talked about, and in this case, how archaeologist breech the subject of domestication. While I found voyant to be the least useful method of data visualization for my project, I think it would really well if 
-I were visualizing quantifiable data.
+### Trends and Corpus
+
+<iframe style='width: 100%; height: 800px' src='//voyant-tools.org/?withDistributions=raw&docIndex=0&mode=document&view=Trends&corpus=9d64480c236f31a3823ff095f8a9d241'></iframe>
+
+I've used voyant to analyze the texts of two archeological articles analysing data concerning the domestication of dogs. While I prefer the aesthic properties of the cirrus word bubble more, I think the Trends and Corpus graph visualizes the data input better. The data I used was two archaeological articles examining the mitochodrial DNA and ancestral lineages of modern dogs in Europe, Central Asia, and South East Asia. I like how the Trends and Corpus displays the data due to the qualitive nature of it, I like how it denotes 'breeds', 'ancient', and 'modern'.
+
+### Blog
+
+Self reflection:
+
+I really enjoyed creating this portfolio, despit a few challenges along the way. Voyant espicially did not want to embed properly, and I initially had it on my website as a static image using the HTML image code. This did however give me a chance to learn a bit more HTML, so that's good. Overall, I think the story map js and timeline js best visualize the data I have chosen for this project. If I were to re-do this project, I would focus more on data collection first and foremost, and then try to build my visualizations, as I think I was too focussed on trying to find the 'right' platforms to present my data. 
