@@ -14,6 +14,10 @@ Dog bones! from the University of Alberta Archives
 
 Following the theme "the bones of our past" from the heritage jam contest, I have decided to focus on the topic of domestication for my second portfolio project. I will be analysing archaeological findings surrounding the domestication of animals and the places they emerged from.  
 
+## The Archaeology of Animal Domestication
+
+
+
 
 ## Story Map JS
 
@@ -52,4 +56,4 @@ Voyant:
 
 Self reflection:
 
-I really enjoyed creating this portfolio, despit a few challenges along the way. Voyant espicially did not want to embed properly, and I initially had it on my website as a static image using the HTML image code. This did however give me a chance to learn a bit more HTML, so that's good. Overall, I think the story map js and timeline js best visualize the data I have chosen for this project. If I were to re-do this project, I would focus more on data collection first and foremost, and then try to build my visualizations, as I think I was too focussed on trying to find the 'right' platforms to present my data. 
+I really enjoyed creating this portfolio, despit a few challenges along the way. Voyant espicially did not want to embed properly, and I initially had it on my website as a static image using the HTML image code. This did however give me a chance to learn a bit more HTML, so that's good. I think the story map js and timeline js best visualize the data I have chosen for this project. If I were to re-do this project, I would focus more on data collection first and foremost, and then try to build my visualizations, as I think I was too focussed on trying to find the 'right' platforms to present my data. This would have prepared me for all of the problems I encountered along the way (quadrigram and gephi kept crashing, and I was unable to embed my carto map into my portfolio in time for this project) so I had to come up with alternatives that did not visualize my initial data in the ways I had intended. Overall I really enjoyed thinking about the "bones of our past", and 
