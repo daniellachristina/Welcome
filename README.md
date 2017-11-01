@@ -18,7 +18,7 @@ Following the theme "the bones of our past" from the heritage jam contest, I hav
 
 "Animal domestication is the most important development in the past 13,000 years of human history. It interests all of us, scientists and non-scientists alike, because it provides most of our food today, it was prerequisite to the rise of civilization." - Jared Diamond
 
-Diamond, Jared. "Evolution, consequences, and future of plant and animal domestication." **Nature,** 418, no. 6898 (2002): 700-707
+Diamond, Jared. "Evolution, consequences, and future of plant and animal domestication." *Nature,* 418, no. 6898 (2002): 700-707
 
 ## Story Map JS
 
@@ -57,4 +57,4 @@ Voyant:
 
 Self reflection:
 
-I really enjoyed creating this portfolio, despit a few challenges along the way. Voyant espicially did not want to embed properly, and I initially had it on my website as a static image using the HTML image code. This did however give me a chance to learn a bit more HTML, so that's good. I think the story map js and timeline js best visualize the data I have chosen for this project. If I were to re-do this project, I would focus more on data collection first and foremost, and then try to build my visualizations, as I think I was too focussed on trying to find the 'right' platforms to present my data. This would have prepared me for all of the problems I encountered along the way (quadrigram and gephi kept crashing, and I was unable to embed my carto map into my portfolio in time for this project) so I had to come up with alternatives that did not visualize my initial data in the ways I had intitailly intended. I'm still happy with how my visuals turned out despite this, and I'm happy they decided to embed properly. 
+I really enjoyed creating this portfolio, despit a few challenges along the way. Voyant espicially did not want to embed properly, and I initially had it on my website as a static image using the HTML image code. This did however give me a chance to learn a bit more HTML, so that's good. I think the story map js and timeline js best visualize the data I have chosen for this project. If I were to re-do this project, I would focus more on data collection first and foremost, and then try to build my visualizations, as I think I was too focussed on trying to find the 'right' platforms to present my data. This would have prepared me for all of the problems I encountered along the way (quadrigram and gephi kept crashing, and I was unable to embed my carto map into my portfolio in time for this project) so I had to come up with alternatives that did not visualize my initial data in the ways I had intitailly intended. I'm still happy with how my visuals turned out despite this, and I'm glad they embedded properly.  
