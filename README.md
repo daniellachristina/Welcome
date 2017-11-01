@@ -39,6 +39,15 @@ Starting at the first known instance of a morphologically different wolf like an
 
 I've used voyant to analyze the texts of two archeological articles analysing data concerning the domestication of dogs. While I prefer the aesthic properties of the cirrus word bubble more, I think the Trends and Corpus graph visualizes the data input better. The data I used was two archaeological articles examining the mitochodrial DNA and ancestral lineages of modern dogs in Europe, Central Asia, and South East Asia. I like how the Trends and Corpus displays the data due to the qualitive nature of it, I like how it denotes 'breeds', 'ancient', and 'modern'.
 
+### Bibliography
+
+Voyant:
+
+1. Vilà, Carles, Peter Savolainen, Jesús E. Maldonado, Isabel R. Amorim, John E. Rice, Rodney L. Honeycutt, Keith A. Crandall, Joakim     Lundeberg, and Robert K. Wayne. "Multiple and ancient origins of the domestic dog." Science 276, no. 5319 (1997): 1687-1689.
+
+2. Larson, Greger, Elinor K. Karlsson, Angela Perri, Matthew T. Webster, Simon YW Ho, Joris Peters, Peter W. Stahl et al. "Rethinking dog domestication by integrating genetics, archeology, and biogeography." Proceedings of the National Academy of Sciences 109, no. 23 (2012): 8878-8883.
+
+
 ### Blog
 
 Self reflection:
