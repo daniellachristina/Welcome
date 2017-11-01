@@ -30,6 +30,6 @@ I've used Voyant to analyze the text of two archaeological articles concerning t
 
 I've utlized Story Map JS to locate sites of animal domestication around the world. Included are the sites of dog, cattle, pig, guinea pig, and chicken domestication. I think this my favourite visualization tool, as it allows for easy editing, custom photo uploads, and most importantly, allows for the added description of the points located on the map. I'm very pleased with how this turned out! 
 
-## Timeline JS and Quadrigram 
+## Timeline JS 
 
-<div class='q-container' style='max-width:380px; margin:auto; position:relative'> <div style='padding-bottom:100%; position:relative'> <iframe src=http://www.quadrigram.com/hosting/daniella_baldini/visualizing_archaeology/ width='100%' height='100%' style='border: none; position:absolute'></iframe></div><div style='text-align:right; font-size: 10px'><a href='http://www.quadrigram.com' target='_blank'>Powered by Quadrigram </a></div> </div>
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1thjnFC1aR0bIH5XkedFL5WnkOaajbA3_bY3S0cF0QvA&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
